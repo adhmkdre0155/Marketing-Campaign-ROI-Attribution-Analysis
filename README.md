@@ -1,7 +1,7 @@
 # Marketing Campaign ROI & Attribution Analysis
 
 **Data Analyst / Business Analyst hybrid portfolio project — Adham AlHers**
-[Live interactive dashboard](./dashboard/index.html) · [LinkedIn](https://www.linkedin.com/in/adhamalhers/) · [Portfolio home](#)
+[Live interactive dashboard](https://adhmkdre0155.github.io/Marketing-Campaign-ROI-Attribution-Analysis/dashboard/index.html) · [LinkedIn](https://www.linkedin.com/in/adhamalhers/) · [Portfolio home](https://app.notion.com/p/Data-Business-Analyst-Portfolio-Adham-AlHers-3b63ac1ddec780c1b2d6c221c6bcbb59)
 
 ## Problem statement
 A marketing team runs campaigns across paid social, paid search, email, and SEO, and needs to know which channel actually drives revenue — not just clicks.
@@ -35,7 +35,7 @@ Python (pandas) for cleaning and the attribution model · SQL (SQLite) for chann
 ├── dashboard/
 │   └── index.html                      # Self-contained interactive web dashboard
 └── docs/
-    └── insights_memo.docx/.pdf
+    └── insights_memo.pdf
 ```
 
 ## Step-by-step approach
