@@ -11,8 +11,8 @@ This is the closest project in the portfolio to real hands-on marketing-analytic
 
 ## Dataset
 Two simulated datasets, generated to produce genuine, discoverable patterns rather than scripted conclusions:
-- **`campaign_performance_clean.csv`** — 2,680 cleaned daily rows (2024–2025) across 4 channels: Channel, Spend, Impressions, Clicks, Conversions, Revenue.
-- **`customer_journeys_raw.csv`** — 23,708 touchpoints across 9,000 simulated customer journeys, used for the attribution model. Built with a realistic funnel pattern (SEO/Paid Social skew early in the journey, Email/Paid Search skew late) rather than asserting the attribution result directly.
+- **[Clean Campaign Performance](campaign_performance_clean.csv)** — 2,680 cleaned daily rows (2024–2025) across 4 channels: Channel, Spend, Impressions, Clicks, Conversions, Revenue.
+- **[Raw Customer Journeys](customer_journeys_raw.csv)** — 23,708 touchpoints across 9,000 simulated customer journeys, used for the attribution model. Built with a realistic funnel pattern (SEO/Paid Social skew early in the journey, Email/Paid Search skew late) rather than asserting the attribution result directly.
 
 ## Tools
 Python (pandas) for cleaning and the attribution model · SQL (SQLite) for channel-level analysis · Excel (openpyxl, formula-driven) for the KPI dashboard · Chart.js for the interactive dashboard (standing in for Power BI — see note below).
